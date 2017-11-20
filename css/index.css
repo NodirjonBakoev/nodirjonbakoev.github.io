@@ -1,0 +1,54 @@
+body{margin: 0px;
+padding: 0px}
+	.head{
+		background-color: none;
+		color: white;
+		text-align: left;
+		padding: 0px;
+		margin: 0px;
+		font-family:Apple Chancery;}
+	h3{ font-size: 46px;
+		color: rgb(125,188,195);
+		text-align: center;}
+	.motto{
+		margin: 8px;
+		color: white;
+		text-align: center;
+		font-size: 20px;
+		font-family:Apple Chancery;}
+	img.avatar{border: 3px solid black;
+	 		display: block;
+  			margin-left: auto;
+  			margin-right: auto;
+  			box-shadow: 5px 5px 10px tomato;
+  		}
+	p{	font-size:24px; 
+		text-align: center;
+		color: white;
+		border: 4px rgb(125,188,195);
+		background-color: none;
+		margin: 5px;}
+	.inter{
+		text-shadow: 3px 5px 9px white;
+		background-color: none;
+		color: MediumSeaGreen;
+		border:  3px none;
+		padding: 7px;
+		margin: 5px;}
+		.legend{
+			color: white;
+			font-family: Comic Sans MS;
+			text-shadow: 5px 5px 5px tomato;
+			border-color: rgb(255,75,13);
+		}
+		.inp{
+			text-align: 5px;
+			font-family: Arial;
+			color: white;
+			text-shadow: 4px 5px 10px MediumSeaGreen;
+		}
+		.link{
+			text-align: right;
+			font-family: Arial;
+			
+		}
